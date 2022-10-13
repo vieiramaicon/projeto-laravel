@@ -1,3 +1,3 @@
-const name = "WhatsApp";
+const name = "Mercado Pago";
 
 console.log(name);
