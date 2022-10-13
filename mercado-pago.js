@@ -1,3 +1,3 @@
-const name = "Mercado Pago";
+const $name = "Mercado Pago";
 
-console.log(name);
+console.log($name);
