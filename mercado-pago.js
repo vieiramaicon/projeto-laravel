@@ -1,3 +1,2 @@
-const $name = "Mercado Pago";
-const $user = "Maicon V. de Oliveira";
+const $name = "Mercado Pago!!!";
 console.log($name);
